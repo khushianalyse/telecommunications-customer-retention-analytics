@@ -130,15 +130,25 @@ Increase awareness and adoption of technical support services.
 ## Project Workflow
 
 Data Collection
+
 ↓
+
 Data Cleaning
+
 ↓
+
 Exploratory Data Analysis
+
 ↓
+
 Visualisation
+
 ↓
+
 Business Insights
+
 ↓
+
 Recommendations
 
 
